@@ -1,3 +1,0 @@
-DOM: The document object model. This will hold a hierarchical structure of document objects in a data structure that can be interacted with.
-Namespace: Logical grouping of related objects into the same named data structure.
-Window: Window is the "global" namespace in javascript. Every thing is a child of window.
